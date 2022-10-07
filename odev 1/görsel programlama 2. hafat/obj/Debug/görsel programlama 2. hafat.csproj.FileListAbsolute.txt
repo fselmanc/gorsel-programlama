@@ -1,0 +1,22 @@
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.exe.config
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.exe
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.pdb
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.AssemblyReference.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.SuggestedBindingRedirects.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.Form1.resources
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.Properties.Resources.resources
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.GenerateResource.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.CoreCompileInputs.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.exe
+C:\Users\selman\Desktop\görsel programlama 2. hafat\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.pdb
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.exe.config
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.exe
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\bin\Debug\görsel_programlama_2.hafat.pdb
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.AssemblyReference.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.SuggestedBindingRedirects.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.Form1.resources
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.Properties.Resources.resources
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.GenerateResource.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel programlama 2. hafat.csproj.CoreCompileInputs.cache
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.exe
+C:\Users\selman\Desktop\görsel programlama 2. hafta ÖDEVİ (DERSTE YAPTIĞIMIZI TAMAMLADIK)\görsel programlama 2. hafat\obj\Debug\görsel_programlama_2.hafat.pdb
